@@ -2,7 +2,7 @@
 
     <string name="app_name">Dolan</string>
     <string name="xposeddescription">Trunsfurm syiestem lungazge intu dolan</string>
-    <string name="superuser">Superuser</string>
+    <string name="superuser">supruesr</string>
     <string name="allow">Allow</string>
     <string name="deny">Deny</string>
     <string name="status_incoming">Incoming Superuser Request…</string>
