@@ -1,3 +1,3 @@
 # Dolan
 dolan xposed module
-This Xposed module turns the whole android system into Dolan Language. wirk in progress.
+This Xposed module turns the whole android system into Dolan Language. work in progress.
