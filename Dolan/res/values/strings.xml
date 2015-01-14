@@ -3,9 +3,9 @@
     <string name="app_name">Dolan</string>
     <string name="xposeddescription">Trunsfurm syiestem lungazge intu dolan</string>
     <string name="superuser">supruesr</string>
-    <string name="allow">Allow</string>
-    <string name="deny">Deny</string>
-    <string name="status_incoming">Incoming Superuser Request…</string>
+    <string name="allow">Alau</string>
+    <string name="deny">Denai</string>
+    <string name="status_incoming">Incoming Supruser Request…</string>
     <string name="unknown_uid">Unknown UID: %s</string>
     <string name="application_request">%s is requesting Superuser access.</string>
     <string name="info">Warning: If you do not understand this, you should deny the request.</string>
