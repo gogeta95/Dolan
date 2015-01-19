@@ -43,7 +43,6 @@ toast
 notification
 no_notification
 developer_warning
-</string>
 superuser_description
 superuser_description_more
 declared_permission
@@ -70,7 +69,6 @@ installing
 installing_superuser
 install_superuser
 install_superuser_info
-</string>
 recovery_install
 install
 checking_superuser
@@ -91,7 +89,6 @@ pin_disabled
 revoke_permission
 details
 db_delete_error
-</string>
 ga_trackingId
 font_size_preview_text
 default_date_format
@@ -116,7 +113,6 @@ sel_sub_title
 sel_sub_summary
 select_subscription
 no_sim_info
-</string>
 subs_settings
 set_data_subscription_progress
 set_dds_success
@@ -186,7 +182,6 @@ increasing_ring_title
 checkbox_increasing_ring
 increasing_ring_min_volume_title
 increasing_ring_volume_notice
-</string>
 increasing_ring_interval_title
 increasing_ring_interval_eachring
 increasing_ring_interval_half_second
@@ -371,7 +366,6 @@ lockscreen_enable_camera_title
 safe_headset_volume_title
 cyanogenmod_waiver_title
 cyanogenmod_waiver_body
-</string>
 quick_settings_panel_title
 title_static_tiles
 tile_picker_title
@@ -453,7 +447,6 @@ light_sensor_current_value
 auto_brightness_dialog_title
 auto_brightness_level_format
 auto_brightness_last_level_format
-</string>
 auto_brightness_brightness_format
 auto_brightness_adjust_button
 auto_brightness_close_button
@@ -473,11 +466,6 @@ auto_brightness_preview
 auto_brightness_preview_dialog_title
 auto_brightness_help_dialog_title
 auto_brightness_help_text
-<i>cubic spline interpolation</i> on a given number of <i>control points</i>
-<i>logarithmic</i>
-<b>How to edit the brightness curve?</b>
-<i>control point</i>
-</string>
 auto_brightness_sensitivity_title
 auto_brightness_sensitivity_verylow
 auto_brightness_sensitivity_low
@@ -538,7 +526,6 @@ anonymous_statistics_title
 anonymous_statistics_summary
 anonymous_statistics_warning_title
 anonymous_statistics_warning
-</string>
 enable_reporting_title
 preview_data_title
 preview_data_summary
@@ -563,7 +550,6 @@ soundpack_settings_title
 performance_settings_title
 performance_settings_warning_title
 performance_settings_warning
-</string>
 performance_set_on_boot
 performance_set_on_boot_summary
 processor_title
@@ -617,7 +603,6 @@ privacy_guard_help_title
 privacy_guard_reset_title
 privacy_guard_reset_text
 privacy_guard_help_text
-</string>
 privacy_guard_manager_show_system_apps
 privacy_guard_manager_filter_permissions
 privacy_guard_advanced_settings_title
@@ -667,7 +652,6 @@ adb_notify_summary
 adb_over_network
 adb_over_network_summary
 adb_over_network_warning
-</string>
 device_hostname
 notification_drawer_title
 notification_drawer_collapse_on_dismiss_title
@@ -755,9 +739,7 @@ navigation_bar_title
 navigation_bar_left_title
 navigation_bar_left_summary
 navigation_bar_help_text
-</string>
 navigation_bar_tips
-</string>
 navigation_bar_tips_title
 navigation_bar_reset_message
 navigation_bar_save_message
@@ -1301,7 +1283,6 @@ roaming_reenable_message
 roaming_turn_it_on_button
 roaming_warning
 roaming_warning_multiuser
-</string>
 roaming_reenable_title
 networks
 sum_carrier_select
@@ -1348,7 +1329,6 @@ crypt_keeper_encrypt_title
 crypt_keeper_encrypt_summary
 crypt_keeper_encrypted_summary
 crypt_keeper_desc
-</string>
 crypt_keeper_button_text
 crypt_keeper_low_charge_text
 crypt_keeper_unplugged_text
@@ -1362,7 +1342,6 @@ crypt_keeper_cooldown
 crypt_keeper_enter_password
 crypt_keeper_failed_title
 crypt_keeper_failed_summary
-</string>
 crypt_keeper_switch_input_method
 lock_settings_picker_title
 backup_lock_settings_picker_title
@@ -1519,7 +1498,6 @@ android_beam_off_summary
 android_beam_disabled_summary
 android_beam_label
 android_beam_explained
-</string>
 nsd_quick_toggle_title
 nsd_quick_toggle_summary
 wifi_quick_toggle_title
@@ -1621,7 +1599,6 @@ wifi_security_wpa_wpa2
 wifi_security_psk_generic
 wifi_security_eap
 wifi_scan_always_turnon_message
-</string>
 wifi_scan_always_confirm_allow
 wifi_scan_always_confirm_deny
 wifi_connect
@@ -1634,7 +1611,6 @@ wifi_cancel
 wifi_skip_anyway
 wifi_dont_skip
 wifi_skipped_message
-</string>
 wifi_and_mobile_skipped_message
 wifi_connect_failed_message
 wifi_advanced_titlebar
@@ -1798,10 +1774,8 @@ sim_change_pin
 sim_bad_pin
 sim_pins_dont_match
 sim_change_failed
-</string>
 sim_change_succeeded
 sim_lock_failed
-</string>
 sim_enter_ok
 sim_enter_cancel
 wrong_pin_code_pukked
@@ -1931,16 +1905,9 @@ restore_default_apn_completed
 master_clear_title
 master_clear_summary
 master_clear_desc
-<li>Your Google account</li>
-<li>System and app data and settings</li>
-<li>Downloaded apps</li></string>
 master_clear_accounts
-</string>
 master_clear_desc_also_erases_external
-<li>Photos</li>
-<li>Other user data</li></string>
 master_clear_desc_erase_external_storage
-<b>SD card</b> needs to be erased.</string>
 erase_external_storage
 erase_external_storage_description
 master_clear_button_text
@@ -2127,12 +2094,6 @@ show_background_processes
 reset_app_preferences
 reset_app_preferences_title
 reset_app_preferences_desc
-<li>Disabled apps</li>
-<li>Disabled app notifications</li>
-<li>Default applications for actions</li>
-<li>Background data restrictions for apps</li>
-<li>Any permission restrictions</li>
-</string>
 reset_app_preferences_button
 manage_space_text
 filter
@@ -2339,7 +2300,6 @@ enforce_read_external_title
 enforce_read_external_summary
 enforce_read_external_confirm_title
 enforce_read_external_confirm_message
-</string>
 enable_terminal_title
 enable_terminal_summary
 gadget_picker_title
@@ -2367,14 +2327,10 @@ accessibility_system_title
 accessibility_captioning_title
 accessibility_screen_magnification_title
 accessibility_screen_magnification_summary
-<li><ul>
-<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li></ul></li>
-</string>
 accessibility_global_gesture_preference_title
 accessibility_global_gesture_preference_summary_on
 accessibility_global_gesture_preference_summary_off
 accessibility_global_gesture_preference_description
-</string>
 accessibility_toggle_large_text_preference_title
 accessibility_toggle_screen_magnification_preference_title
 accessibility_toggle_screen_magnification_auto_update_preference_title
@@ -2443,7 +2399,6 @@ print_print_job
 print_restart
 print_cancel
 print_job_summary
-</string>
 print_printing_state_title_template
 print_cancelling_state_title_template
 print_failed_state_title_template
@@ -2705,7 +2660,6 @@ wifi_setup_status_eap_not_supported
 wifi_setup_eap_not_supported
 wifi_setup_description_connecting
 wifi_setup_description_connected
-<b>Back</b> to connect to a different Wi-Fi network.</string>
 time_zone_auto_stub
 accessibility_sync_enabled
 accessibility_sync_disabled
@@ -2730,12 +2684,10 @@ settings_backup_summary
 sync_menu_sync_now
 sync_menu_sync_cancel
 sync_one_time_sync
-</string>
 sync_gmail
 sync_calendar
 sync_contacts
 sync_plug
-</string>
 header_application_sync_settings
 header_data_and_synchronization
 preference_change_password_title
@@ -2846,11 +2798,9 @@ data_usage_app_restrict_background_summary
 data_usage_app_restrict_background_summary_disabled
 data_usage_app_restrict_dialog_title
 data_usage_app_restrict_dialog
-</string>
 data_usage_restrict_denied_dialog
 data_usage_auto_sync_on_dialog_title
 data_usage_auto_sync_on_dialog
-</string>
 data_usage_auto_sync_off_dialog_title
 data_usage_auto_sync_off_dialog
 data_usage_cycle_editor_title
@@ -2860,11 +2810,9 @@ data_usage_warning_editor_title
 data_usage_limit_editor_title
 data_usage_limit_dialog_title
 data_usage_limit_dialog_mobile
-</string>
 data_usage_restrict_background_title
 data_usage_restrict_background
 data_usage_restrict_background_multiuser
-</string>
 data_usage_sweep_warning
 <font size=
 data_usage_sweep_limit
@@ -2939,9 +2887,7 @@ ssl_ca_cert_warning
 done_button
 ssl_ca_cert_dialog_title
 ssl_ca_cert_info_message
-</string>
 ssl_ca_cert_warning_message
-</string>
 ssl_ca_cert_settings_button
 tune_away_Default
 user_settings_title
@@ -2962,9 +2908,7 @@ user_add_user_item_title
 user_add_profile_item_title
 user_add_user_title
 user_add_user_message_long
-</string>
 user_add_user_message_short
-</string>
 user_setup_dialog_title
 user_setup_dialog_message
 user_setup_profile_dialog_message
