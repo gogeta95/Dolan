@@ -14,7 +14,7 @@
     <string name="app_header">App:</string>
     <string name="uid_header">Requested UID:</string>
     <string name="command_header">Command:</string>
-    <string name="this_time_only">This time only</string>
+    <string name="this_time_only">Tsih tme unly</string>
     <string name="remember_for">Remember choice for %s minutes</string>
     <string name="remember_forever">Remember choice forever</string>
     <string name="interactive">Interactive</string>
