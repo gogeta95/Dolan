@@ -2,3 +2,4 @@ xposeddescription
 superuser
 allow
 deny
+package 
