@@ -4,3 +4,5 @@ allow
 deny
 package 
 this_time_only
+info
+request
