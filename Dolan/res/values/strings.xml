@@ -2998,78 +2998,78 @@ This setting affects all users on this phone."</string>
     <string name="ssl_ca_cert_info_message">"This device is managed by:
 %s
 
-Your administrator is capable of monitoring your network activity, including emails, apps, and secure websites.
+Ur atministrator iz cpaalb of mntring ur ntwrk atcivti, inlcudng eamizl, appz, and scur wbstz.
 
-For more information, contact your administrator."</string>
-    <string name="ssl_ca_cert_warning_message">"A third party is capable of monitoring your network activity, including emails, apps, and secure websites.
+Fer mur infrmatn, cntct ur atministrator."</string>
+    <string name="ssl_ca_cert_warning_message">"A thrd prti iz cpaalb of mntring ur ntwrk atcivti, inlcudng eamizl, appz, and scur wbstz.
 
-A trusted credential installed on your device is making this possible."</string>
-    <string name="ssl_ca_cert_settings_button">Check trusted credentials</string>
-    <string name="tune_away_Default">Disable</string>
-    <string name="user_settings_title">Users</string>
-    <string name="user_list_title">Users &amp; profiles</string>
-    <string name="user_add_user_menu">Add user or profile</string>
-    <string name="user_summary_restricted_profile">Restricted profile</string>
-    <string name="user_need_lock_message">"Before you can create a restricted profile, you'll need to set up a screen lock to protect your apps and personal data."</string>
-    <string name="user_set_lock_button">Set lock</string>
+A trsted crdntal isntaeld on ur dvic iz mkaign diz pssbl."</string>
+    <string name="ssl_ca_cert_settings_button">Cehk trsted crdntalz</string>
+    <string name="tune_away_Default">Dsialb</string>
+    <string name="user_settings_title">Usrz</string>
+    <string name="user_list_title">Usrz &amp; prflz</string>
+    <string name="user_add_user_menu">Add uesr or porfli</string>
+    <string name="user_summary_restricted_profile">Rstrcted porfli</string>
+    <string name="user_need_lock_message">"Bfor yu cna crat a rstrcted porfli, yu'l ned tu set up a scrn lok tu prtct ur appz and presoanl dtaa."</string>
+    <string name="user_set_lock_button">Set lok</string>
     <string name="user_summary_not_set_up">Not set up</string>
-    <string name="user_summary_restricted_not_set_up">Not set up - Restricted profile</string>
-    <string name="user_owner">Owner</string>
-    <string name="user_you">You (%s)</string>
-    <string name="user_nickname">Nickname</string>
+    <string name="user_summary_restricted_not_set_up">Not set up - rstrcted porfli</string>
+    <string name="user_owner">Ownr</string>
+    <string name="user_you">Yu (%s)</string>
+    <string name="user_nickname">Nicknam</string>
     <string name="user_add_user_type_title">Add</string>
-    <string name="user_add_user_item_summary">Users have their own apps and content</string>
-    <string name="user_add_profile_item_summary">You can restrict access to apps and content from your account</string>
-    <string name="user_add_user_item_title">User</string>
-    <string name="user_add_profile_item_title">Restricted profile</string>
-    <string name="user_add_user_title">Add new user</string>
-    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like Wi‑Fi that affect everyone.
+    <string name="user_add_user_item_summary">Usrz hev thir own appz and cntnt</string>
+    <string name="user_add_profile_item_summary">Yu cna rsetrcit accezs tu appz and cntnt frum ur accont</string>
+    <string name="user_add_user_item_title">Uesr</string>
+    <string name="user_add_profile_item_title">Rstrcted porfli</string>
+    <string name="user_add_user_title">Add new uesr</string>
+    <string name="user_add_user_message_long">"Yu cna shre diz dvic wtih othr popl bi ceratnig addtnal usrz. Ecah user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like Wi‑Fi that affect everyone.
 
-After you create a new user, that person needs to go through a setup process.
+aftr yu crat a new uesr, dat presno ndez tu go throgh a stup prcsz.
 
-Any user can accept updated app permissions on behalf of all other users."</string>
-    <string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
+Ani uesr cna accetp updated app prmssnz on bheafl of al othr usrz."</string>
+    <string name="user_add_user_message_short">"Aftr yu crat a new uesr, dat presno ndez tu go throgh a stup prcsz.
 
-Any user can accept updated app permissions on behalf of all other users."</string>
-    <string name="user_setup_dialog_title">Set up user now?</string>
-    <string name="user_setup_dialog_message">Make sure the person is available to take the tablet and set up their space</string>
-    <string name="user_setup_profile_dialog_message">Set up profile now?</string>
-    <string name="user_setup_button_setup_now">Set up now</string>
-    <string name="user_setup_button_setup_later">Not now</string>
-    <string name="user_cannot_manage_message">"Only the phone's owner can manage users."</string>
-    <string name="user_cannot_add_accounts_message">Restricted profiles cannot add accounts</string>
-    <string name="user_remove_user_menu">Delete %1$s from this device</string>
-    <string name="user_new_user_name">New user</string>
-    <string name="user_new_profile_name">New profile</string>
-    <string name="user_confirm_remove_self_title">Delete yourself?</string>
-    <string name="user_confirm_remove_title">Remove user?</string>
-    <string name="user_profile_confirm_remove_title">Remove profile?</string>
-    <string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
-    <string name="user_confirm_remove_message">"This user's space and data will disappear from this phone. You can't undo this action."</string>
-    <string name="user_profile_confirm_remove_message">"This profile's space and data will disappear from this phone. You can't undo this action."</string>
-    <string name="user_adding_new_user">Adding new user…</string>
+Ani uesr cna accetp updated app prmssnz on bheafl of al othr usrz."</string>
+    <string name="user_setup_dialog_title">Set up uesr now?</string>
+    <string name="user_setup_dialog_message">Maek sur teh presno iz aavilbal tu tak teh tbalte and set up thir sapc</string>
+    <string name="user_setup_profile_dialog_message">Set up porfli naw?</string>
+    <string name="user_setup_button_setup_now">Set up naw</string>
+    <string name="user_setup_button_setup_later">Not naw</string>
+    <string name="user_cannot_manage_message">"Onlie teh phn'z ownr cna mnag usrz."</string>
+    <string name="user_cannot_add_accounts_message">Rstrcted prflz cnanto add accoutnz</string>
+    <string name="user_remove_user_menu">Dlet %$1z frum diz dvic</string>
+    <string name="user_new_user_name">New uesr</string>
+    <string name="user_new_profile_name">New porfli</string>
+    <string name="user_confirm_remove_self_title">Dlet yuorslef?</string>
+    <string name="user_confirm_remove_title">Rmov uesr?</string>
+    <string name="user_profile_confirm_remove_title">Rmov porfli?</string>
+    <string name="user_confirm_remove_self_message">"Yu wil los ur sapc and dtaa on diz pohn. yu cn't udno diz atcino."</string>
+    <string name="user_confirm_remove_message">"Diz uesrz' sapc and dtaa wil diasppar frum diz pohn. yu cn't udno diz atcino."</string>
+    <string name="user_profile_confirm_remove_message">"Diz prfoil'z sapc and dtaa wil diasppar frum diz pohn. yu cn't udno diz atcino."</string>
+    <string name="user_adding_new_user">addign new uesr…</string>
     <string name="user_delete_user_description">Delete user</string>
-    <string name="user_delete_button">Delete</string>
-    <string name="application_restrictions">Allow apps and content</string>
-    <string name="apps_with_restrictions_header">Applications with restrictions</string>
-    <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
-    <string name="home_app_uninstall_button">Uninstall this application</string>
-    <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
-    <string name="global_change_warning">This setting affects all users on this phone.</string>
-    <string name="global_locale_change_title">Change language</string>
-    <string name="global_font_change_title">Change font size</string>
+    <string name="user_delete_button">Dlet</string>
+    <string name="application_restrictions">Aolw appz and cntnt</string>
+    <string name="apps_with_restrictions_header">Applkatinz wtih restrktinz</string>
+    <string name="apps_with_restrictions_settings_button">Epxadn stetignz fer applcatn</string>
+    <string name="home_app_uninstall_button">Uinnsatl diz applcatn</string>
+    <string name="only_one_home_message">Hom stetignz wil b hdidne untl yu isntla anther hom applcatn.</string>
+    <string name="global_change_warning">Diz sttng affectz al usrz on diz pohn.</string>
+    <string name="global_locale_change_title">Chng lngag</string>
+    <string name="global_font_change_title">Chng fnot siz</string>
     <string name="nfc_payment_settings_title">Tap &amp; pay</string>
-    <string name="nfc_payment_no_apps">Pay with just a tap</string>
-    <string name="nfc_payment_learn_more">Learn more</string>
-    <string name="nfc_payment_menu_item_add_service">Find apps</string>
-    <string name="nfc_payment_set_default_label">Set as your preference?</string>
-    <string name="nfc_payment_set_default">Always use %1$s when you tap &amp; pay?</string>
-    <string name="nfc_payment_set_default_instead_of">Always use %1$s instead of %2$s when you tap &amp; pay?</string>
-    <string name="restriction_settings_title">Restrictions</string>
-    <string name="restriction_menu_reset">Remove restrictions</string>
-    <string name="restriction_menu_change_pin">Change PIN</string>
-    <string name="app_notifications_switch_label">Show notifications</string>
-    <string name="help_label">Help</string>
+    <string name="nfc_payment_no_apps">Pai wtih jsut a tap</string>
+    <string name="nfc_payment_learn_more">Larn mur</string>
+    <string name="nfc_payment_menu_item_add_service">Fnid appz</string>
+    <string name="nfc_payment_set_default_label">Set az ur prfeernc?</string>
+    <string name="nfc_payment_set_default">Awlazy us %1$s wehn yu tap &amp; pay?</string>
+    <string name="nfc_payment_set_default_instead_of">Awlazy us %$1z instad of %$2z wehn yu tap &amp; pay?</string>
+    <string name="restriction_settings_title">Restrktinz</string>
+    <string name="restriction_menu_reset">Rmov restrktinz</string>
+    <string name="restriction_menu_change_pin">Chng pin</string>
+    <string name="app_notifications_switch_label">Shwo notifikationz</string>
+    <string name="help_label">Halp</string>
     <string name="help_url_wifi" />
     <string name="help_url_bluetooth" />
     <string name="help_url_data_usage" />
@@ -3087,27 +3087,27 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="help_url_security" />
     <string name="help_url_nfc_payment" />
     <string name="help_url_remote_display" />
-    <string name="user_account_title">Account for content</string>
-    <string name="user_picture_title">Photo ID</string>
-    <string name="cell_broadcast_settings">Cell broadcasts</string>
-    <string name="user_restrictions_title">Application and content restrictions</string>
+    <string name="user_account_title">Accont fer cntnt</string>
+    <string name="user_picture_title">Pohto id</string>
+    <string name="cell_broadcast_settings">Cel brdcastz</string>
+    <string name="user_restrictions_title">Applcatn and cntnt restrktinz</string>
     <string name="user_rename">RENAME</string>
-    <string name="app_restrictions_custom_label">Set app restrictions</string>
-    <string name="user_restrictions_controlled_by">Controlled by %1$s</string>
-    <string name="app_not_supported_in_limited">This app is not supported in restricted profiles</string>
-    <string name="app_sees_restricted_accounts">This app can access your accounts</string>
-    <string name="restriction_wifi_config_title">Wi‑Fi and Mobile</string>
-    <string name="restriction_wifi_config_summary">Allow modification of Wi‑Fi and Mobile settings</string>
-    <string name="restriction_bluetooth_config_title">Bluetooth</string>
-    <string name="restriction_bluetooth_config_summary">Allow modification of Bluetooth pairings and settings</string>
+    <string name="app_restrictions_custom_label">Set app restrktinz</string>
+    <string name="user_restrictions_controlled_by">Cotnroed bi %$1z</string>
+    <string name="app_not_supported_in_limited">Diz app iz not suppored in rstrcted prflz</string>
+    <string name="app_sees_restricted_accounts">Diz app cna accezs ur accoutnz</string>
+    <string name="restriction_wifi_config_title">W‑fy and mbi</string>
+    <string name="restriction_wifi_config_summary">Aolw modfikatin of w‑fy and mbil sttngs</string>
+    <string name="restriction_bluetooth_config_title">Bulettuh</string>
+    <string name="restriction_bluetooth_config_summary">Aolw modfikatin of bulettuh piarignz and stetignz</string>
     <string name="restriction_nfc_enable_title">NFC</string>
-    <string name="restriction_nfc_enable_summary">Allow data exchange when the phone touches another device</string>
-    <string name="restriction_location_enable_title">Location</string>
-    <string name="restriction_location_enable_summary">Let apps use your location information</string>
-    <string name="wizard_back">Back</string>
-    <string name="wizard_next">Next</string>
-    <string name="wizard_finish">Finish</string>
-    <string name="user_image_take_photo">Take photo</string>
-    <string name="user_image_choose_photo">Choose photo from Gallery</string>
+    <string name="restriction_nfc_enable_summary">Aolw dtaa exchng wehn teh pohn tuoczh anther dvic</string>
+    <string name="restriction_location_enable_title">lcoatoin</string>
+    <string name="restriction_location_enable_summary">let appz us ur lcoatoin infrmatn</string>
+    <string name="wizard_back">Bak</string>
+    <string name="wizard_next">Nxet</string>
+    <string name="wizard_finish">Fniihs</string>
+    <string name="user_image_take_photo">Tak pohto</string>
+    <string name="user_image_choose_photo">Cuhs pohto frum glaeir</string>
     <string name="regulatory_info_text" />
 </resources>
