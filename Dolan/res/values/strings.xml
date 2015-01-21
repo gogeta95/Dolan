@@ -39,11 +39,11 @@
     <string name="pin_mismatch">PIN ded nut mech</string>
     <string name="pin_set">Suepruser PIN pruteksion enbled</string>
     <string name="number_seconds">%s secndz</string>
-    <string name="superuser_granted">Superuser granted to %s</string>
-    <string name="superuser_denied">Superuser denied to %s</string>
-    <string name="toast">Toast</string>
-    <string name="notification">Notification</string>
-    <string name="no_notification">No notification will be shown</string>
+    <string name="superuser_granted">suepruer grnted tu %s</string>
+    <string name="superuser_denied">suepruer dneide tu %s</string>
+    <string name="toast">tast</string>
+    <string name="notification">notfikatin</string>
+    <string name="no_notification">no notfikatin wil b shwn</string>
     <string name="developer_warning">"Developer Warning:
 android.permission.ACCESS_SUPERUSER
 not declared in manifest."</string>
