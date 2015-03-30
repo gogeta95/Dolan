@@ -12,7 +12,7 @@ public class Dolan implements IXposedHookInitPackageResources,IXposedHookZygoteI
 	public void handleInitPackageResources(InitPackageResourcesParam resparam)
 			throws Throwable {
 		XModuleResources modres= XModuleResources.createInstance(MyApp, resparam.res);
-		if(resparam.packageName.equals("com.adnroid.settings")){
+		if(resparam.packageName.equals("com.android.settings")){
 			modify(resparam,"com.android.settings","app_name",modres.getString(R.string.app_name));
 			modify(resparam,"com.android.settings","xposeddescription",modres.getString(R.string.xposeddescription));
 			modify(resparam,"com.android.settings","superuser",modres.getString(R.string.superuser));
